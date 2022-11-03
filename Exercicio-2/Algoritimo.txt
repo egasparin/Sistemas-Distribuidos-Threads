@@ -1,0 +1,9 @@
+Barbeiro corta cabelo de um cliente
+Sem clientes barbeiro dorme
+
+Cliente entra na barbearia 
+se estiver vazia acorda o barbeiro
+senao
+  se estiver com ao menos uma cadeira vazia espera
+senao
+  se estiver lotada vai embora
